@@ -1,8 +1,8 @@
 # Hi, I'm Aayush 👋
 
-Data Scientist, at Aviso.AI
-M.Tech AI, IIT Kharagpur
-B.Tech EE, Jadavpur University
+Data Scientist @ Aviso.AI,
+M.Tech AI @ IIT Kharagpur,
+B.Tech EE @ Jadavpur University
 
 I create educational content on Machine Learning.
 
